@@ -18,8 +18,8 @@ Plot the original and filtered image.
 End the program.
 # Program:
 ```
-Developed By   : YUVARAJ V
-Register Number: 212223230252
+Developed By   : Gnanendran N
+Register Number: 212223240037
 ```
 ## 1. Smoothing Filters
 
@@ -92,29 +92,23 @@ plt.subplot(1,3,3); plt.imshow(laplacian_operator, cmap = 'gray'); plt.title("La
 # OUTPUT:
 ## 1. Smoothing Filters
 i) Using Averaging Filter
-<img width="1254" height="500" alt="image" src="https://github.com/user-attachments/assets/e4dde8a8-a34e-4b70-aea4-84a7c7a8e263" />
-
+<img width="1262" height="304" alt="image" src="https://github.com/user-attachments/assets/06d928a2-2351-40f8-9032-cc697f876a76" />
 
 ii)Using Weighted Averaging Filter
-<img width="1249" height="455" alt="image" src="https://github.com/user-attachments/assets/05e9c1d5-b323-4b0a-85bd-87fe32e0298a" />
-
+<img width="1274" height="302" alt="image" src="https://github.com/user-attachments/assets/d8035243-e983-40f7-a12a-d850c061e860" />
 
 iii)Using Gaussian Filter
-<img width="1239" height="431" alt="image" src="https://github.com/user-attachments/assets/6186a81a-387a-453f-ac18-42136bea4dcc" />
-
+<img width="1278" height="307" alt="image" src="https://github.com/user-attachments/assets/342e85a1-af15-4eda-b7c0-40980318af6d" />
 
 iv) Using Median Filter
-<img width="1256" height="436" alt="image" src="https://github.com/user-attachments/assets/a61631e8-cc7b-426d-b748-c32eda92dd63" />
-
+<img width="1265" height="308" alt="image" src="https://github.com/user-attachments/assets/4e0b4546-c311-4059-9f82-5e918b61e84e" />
 
 ## 2. Sharpening Filters
 i) Using Laplacian Kernal
-<img width="1245" height="435" alt="image" src="https://github.com/user-attachments/assets/8b8eacb1-aee1-4322-bfff-9945438eed8c" />
-
+<img width="1272" height="298" alt="image" src="https://github.com/user-attachments/assets/3aa2367e-a8e3-4e49-8e97-5911d93b8352" />
 
 ii) Using Laplacian Operator
-<img width="1243" height="290" alt="image" src="https://github.com/user-attachments/assets/1da97eb2-2604-44b3-8d1c-bf6c74fc39ec" />
-
+<img width="1256" height="211" alt="image" src="https://github.com/user-attachments/assets/45a9c841-0b2b-48b5-9c24-67c4331d2fbd" />
 
 # Result:
 Thus the filters are designed for smoothing and sharpening the images in the spatial domain.
